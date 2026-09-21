@@ -1,0 +1,31 @@
+@startuml
+class Person{
+    +name: String
+    +alibi: String
+}
+
+class Suspect{
+    -suspectId: String
+}
+
+class Detective{
+    +solveCase(case: Case)
+}
+
+
+class Case{
+    -caseId: String
+    +addclue(clue: Clue)
+}
+
+class Clue{
+    -clueId: String
+    -description: String
+}
+
+Person <|-- Suspect
+Person <|-- Detective
+
+Case *-- "*" Clue
+Detective --> "0..1" Case: solves
+@enduml

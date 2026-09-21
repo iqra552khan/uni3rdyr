@@ -1,0 +1,13 @@
+
+sequenceDiagram
+
+actor Detective
+participant Lab
+actor Suspect
+
+autonumber
+Detective ->> Lab : Analyse fingerprint
+Lab -->> Detective : match found
+Detective ->> Suspect : books
+
+note over Detective : Case closed

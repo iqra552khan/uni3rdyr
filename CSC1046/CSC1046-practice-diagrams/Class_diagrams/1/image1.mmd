@@ -1,0 +1,27 @@
+classDiagram
+    class Game {
+        +startGame()
+        +endGame()
+        +addPlayer(player: Player)
+    }
+
+    class Player {
+        +String name
+        +solveCase(c: Case) Boolean
+    }
+
+    class Case {
+        +String caseId
+        +Boolean isSolved
+        +addClue(clue: Clue)
+    }
+
+    class Clue {
+        +String clueId
+        +String description
+    }
+
+    Game "1" *-- "*" Case
+    Game "1" -- "*" Player
+    Case "1" -- "*" Clue
+    Player --> "1" Case : solves
