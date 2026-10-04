@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="454px" preserveAspectRatio="none" style="width:656px;height:454px;" version="1.1" viewBox="0 0 656 454" width="656px" zoomAndPan="magnify"><defs><filter height="300%" id="f1l3wfae3eqld4" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[b556e2376d0acf8c320f97896f65b960]
+cluster Campus Shuttle Tracker--><rect fill="#FFFFFF" filter="url(#f1l3wfae3eqld4)" height="320" style="stroke: #000000; stroke-width: 1.5;" width="492" x="153" y="24.5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="190" x="304" y="39.4951">Campus Shuttle Tracker</text><ellipse cx="264.7318" cy="79.7464" fill="#FEFECE" filter="url(#f1l3wfae3eqld4)" rx="89.2318" ry="20.2464" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="152" x="188.7318" y="84.3948">View Shuttle Positions</text><ellipse cx="264.4151" cy="153.683" fill="#FEFECE" filter="url(#f1l3wfae3eqld4)" rx="81.4151" ry="18.683" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="134" x="197.4151" y="158.3315">Recieve Arrival Alert</text><ellipse cx="264.3318" cy="228.3664" fill="#FEFECE" filter="url(#f1l3wfae3eqld4)" rx="92.3318" ry="20.8664" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="159" x="184.8318" y="233.0148">Report Shuttle Position</text><ellipse cx="264.4604" cy="306.4921" fill="#FEFECE" filter="url(#f1l3wfae3eqld4)" rx="95.4604" ry="21.4921" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="166" x="181.4604" y="311.1405">Update Arrival Estimates</text><ellipse cx="556.0637" cy="249.5127" fill="#FEFECE" filter="url(#f1l3wfae3eqld4)" rx="73.0637" ry="17.0127" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="114" x="499.0637" y="254.1612">Obtain Map Tiles</text><!--MD5=[2ecd75e3e9428221ffe54ee359c54a63]
+entity Rider--><ellipse cx="56" cy="60.5" fill="#FEFECE" filter="url(#f1l3wfae3eqld4)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M56,68.5 L56,95.5 M43,76.5 L69,76.5 M56,95.5 L43,110.5 M56,95.5 L69,110.5 " fill="none" filter="url(#f1l3wfae3eqld4)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="36" x="38" y="128.9951">Rider</text><!--MD5=[7d8290da0e6745062b0d2ff0e4384d40]
+entity Phone--><ellipse cx="56" cy="192.5" fill="#FEFECE" filter="url(#f1l3wfae3eqld4)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M56,200.5 L56,227.5 M43,208.5 L69,208.5 M56,227.5 L43,242.5 M56,227.5 L69,242.5 " fill="none" filter="url(#f1l3wfae3eqld4)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="100" x="6" y="260.9951">Driver's Phone</text><!--MD5=[2fb4a88e2766c36506e4f36783d67a18]
+entity Maps--><ellipse cx="264.5" cy="372.5" fill="#FEFECE" filter="url(#f1l3wfae3eqld4)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M264.5,380.5 L264.5,407.5 M251.5,388.5 L277.5,388.5 M264.5,407.5 L251.5,422.5 M264.5,407.5 L277.5,422.5 " fill="none" filter="url(#f1l3wfae3eqld4)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="83" x="223" y="440.9951">Map Service</text><!--MD5=[8deeff1cfa66d96b67ddb5a2a7f9c862]
+entity Clock--><ellipse cx="56" cy="308.5" fill="#FEFECE" filter="url(#f1l3wfae3eqld4)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M56,316.5 L56,343.5 M43,324.5 L69,324.5 M56,343.5 L43,358.5 M56,343.5 L69,358.5 " fill="none" filter="url(#f1l3wfae3eqld4)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="38" x="37" y="376.9951">Clock</text><!--MD5=[4479cb375076f03d3be97fd696ab4d7e]
+link Rider to View_position--><path d="M74.25,90.5 C97.22,89.16 139.48,86.71 178.24,84.45 " fill="none" id="Rider-View_position" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[08da684c6fd2760880741fb716b4f2ec]
+link Rider to Alert--><path d="M74.25,96.68 C104.79,105.85 169.38,125.24 214.57,138.81 " fill="none" id="Rider-Alert" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[5adaf05cd5515d41d881aabe2b1e5519]
+link Phone to Report_position--><path d="M106.2,224.69 C126,225.17 149.5,225.74 172.21,226.29 " fill="none" id="Phone-Report_position" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[a0223bb81d45742b1ceb77dbb9f6f59f]
+link Clock to Update--><path d="M75.33,336.57 C100.1,332.61 145.81,325.31 185.97,318.89 " fill="none" id="Clock-Update" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[48cd4cfa41ce14f4cdb3c6a1c0408a56]
+link Maps to Tiles--><path d="M306.06,381.92 C365.19,350.47 473.68,292.76 525.68,265.09 " fill="none" id="Maps-Tiles" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[1042a0338436e55e252c6efddd40ed7c]
+link View_position to Tiles--><path d="M313.02,96.33 C328.33,102.35 345.17,109.61 360,117.5 C424.34,151.71 493.62,202.28 529.77,229.84 " fill="none" id="View_position-&gt;Tiles" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="534.01,233.08,529.279,224.4418,530.0342,230.0481,524.4279,230.8032,534.01,233.08" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="61" x="391" y="132.5669">«include»</text><!--MD5=[99e3055845d2e3f8b22199feed1ff162]
+@startuml
+left to right direction
+
+actor Rider
+actor "Driver's Phone" as Phone
+actor "Map Service" as Maps
+actor Clock
+
+rectangle "Campus Shuttle Tracker" {
+    usecase "View Shuttle Positions" as View_position
+    usecase "Recieve Arrival Alert" as Alert
+    usecase "Report Shuttle Position" as Report_position
+    usecase "Update Arrival Estimates" as Update
+    usecase "Obtain Map Tiles" as Tiles
+}
+
+Rider - - View_position
+Rider - - Alert
+Phone - - Report_position
+Clock - - Update
+Maps - - Tiles
+
+View_position ..> Tiles : <<include>>
+
+@enduml
+
+PlantUML version 1.2020.02(Sun Mar 01 10:22:07 GMT 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 21.0.12.1+1-1-24.04.4-Ubuntu
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>
