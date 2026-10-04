@@ -1,0 +1,29 @@
+@startuml
+left to right direction
+
+'Actors outside the system
+actor Rider
+actor "Driver's Phone" as Phone
+actor "Map Service" as Maps
+actor Clock
+
+'rectangle showing inside the system
+rectangle "Campus Shuttle Tracker" {
+    usecase "View Shuttle Positions" as View_position
+    usecase "Recieve Arrival Alert" as Alert
+    usecase "Report Shuttle Position" as Report_position
+    usecase "Update Arrival Estimates" as Update
+    usecase "Obtain Map Tiles" as Tiles
+}
+
+'Actor participation
+Rider -- View_position
+Rider -- Alert
+Phone -- Report_position
+Clock -- Update
+Maps -- Tiles
+
+'Required supporting behaviour
+View_position ..> Tiles : <<include>>
+
+@enduml
